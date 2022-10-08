@@ -11,7 +11,7 @@
     background-color: rgb(129, 129, 97);
 }
 .bnav:hover {
-        background-color: solid black);
+        background-color: solid black;
         border: 0.1px solid rgba(8, 9, 9, 0.801);
         color: solid white;       
         }
