@@ -1,0 +1,53 @@
+.navbar{
+        position: sticky;
+        top: 0;
+        }
+.bnav{
+    text-align: center;
+    text-decoration: wavy;
+    margin: 0px;
+    height: 30px;
+    line-height: 2;
+    background-color: rgb(129, 129, 97);
+}
+ 
+li{
+        display: inline;
+        float: left;
+        border-color: rgb(4, 138, 138);
+        }
+.aa{
+        display: inline;
+        float: right;
+        }
+a {
+        display: block;
+        padding: 10px;
+        background-color: #170b0b;
+        padding: 10px 15px;
+        color: rgb(7, 4, 4);
+        text-decoration: none;
+
+        }
+ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: rgb(52, 59, 62);
+        }
+li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        }
+        li a:hover {
+        background-color: rgb(231, 224, 224);
+        border: 0.1px solid rgba(8, 9, 9, 0.801);
+        color: rgb(7, 4, 4);       
+        }
+
+        
+        /* to style my photo gallery & to learn gallery gridding (freecodecamp) */
